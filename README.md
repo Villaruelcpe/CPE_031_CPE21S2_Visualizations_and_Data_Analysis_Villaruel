@@ -7,7 +7,7 @@
 </p>
 <br>
 
-> Welcome to my repo for CPE 031: Visualizations and Data Analysis. In this course, I'll be exploring how data can be collected, understood, visualized, and communicated. More than just creating charts, I want to learn how to choose the right visual, design it with purpose, explain insights clearly, and communicate data honestly. Let's turn data into insight with clarity, responsibility, and purpose.
+> Welcome to my repo for CPE 010: Data Structures and Algorithms. In this course, programming becomes more strategic. Instead of simply writing code that works, I will learn how to write programs that are organized, efficient, scalable, and appropriate for the problem being solved.
 
 <br>
 
